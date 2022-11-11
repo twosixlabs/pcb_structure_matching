@@ -1,0 +1,2 @@
+def compare(det1, det2, img1=None, img2=None, whole=True, variant="single", debug=False, score_threshold=0, mean_nearby_count=3, num_full_comparisons=3, max_comp_dist=4, save_overlays_in_debug=True):
+    return -1
